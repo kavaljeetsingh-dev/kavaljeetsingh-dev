@@ -16,11 +16,16 @@
 
 ## 🚀 Top Skills & Technologies
 
-- **Languages:** Java, Python  
-- **Web:** HTML, CSS, JavaScript, React, Tailwind  
-- **Tools:** Git & GitHub, Firebase  
-- **Specialties:** Hackathon building, UI/UX Design  
-- **AI:** Generative AI & LLM APIs (OpenAI, Gemini)
+### 💻 Skills & Technologies
+
+**Languages:** Python, JavaScript, TypeScript, C/C++, Java, PHP  
+**Web Development:** HTML, CSS, ReactJS, NextJS, NodeJS, ExpressJS, TailwindCSS, shadcn/ui  
+**Databases & Cloud:** SQL, NoSQL, Firebase, Vercel  
+**AI / ML / Generative AI:** Gemini API, OpenAI API, Vertex AI, AI/ML Integration, Data Analytics, Data Visualization, Deep Learning  
+**UI/UX & Design:** Responsive Web Design, Wireframing, Prototyping, Interactive Dashboards, Photo & Video Editing  
+**Tools & Version Control:** Git, GitHub, Branch Management, Merging, Conflict Resolution,Gerrit,Phabricator  
+
+
 
 ---
 
