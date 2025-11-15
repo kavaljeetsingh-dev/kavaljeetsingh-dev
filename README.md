@@ -31,9 +31,6 @@
 
 ## 🌟 Favorite Projects
 
-- **EduPath AI:**  
-  AI-powered student assistant platform with 15+ features for academics, productivity, and well-being.
-
 - **Pixel PowerPoint Genie:**  
   Generates professional PowerPoint decks from text using Gemini API. Built with Vite + React + shadcn-ui.
 
