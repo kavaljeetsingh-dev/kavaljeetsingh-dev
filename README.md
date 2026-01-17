@@ -14,10 +14,10 @@
     <br>
     🧠 Strong foundation in <b>DSA, Full Stack, System Design & GenAI</b>  
     <br><br>
-    🏆 <b>Top 5 National – uHack 3.0</b> | Best Technical Implementation  
-    <br>
     🌍 <b>Wikimedia Mentor</b> | Open Source Contributor (MediaWiki)  
     <br><br>
+    🏆 <b>3 x Winner </b> | National Level Hacakathons
+    <br>
     💡 I love turning complex problems into elegant, scalable solutions.
     <br>
     <i>Always learning. Always building. Always shipping.</i>
