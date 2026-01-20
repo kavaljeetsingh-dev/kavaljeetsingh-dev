@@ -62,20 +62,6 @@
 
 ---
 
-<h3 align="center">🚀 Featured Work</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavaljeetsingh-dev&repo=CampusGenie&theme=transparent&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kavaljeetsingh-dev&repo=Pixel-PowerPoint-Genie&theme=transparent&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
 
 <h3 align="center">🤝 Connect With Me</h3>
 
