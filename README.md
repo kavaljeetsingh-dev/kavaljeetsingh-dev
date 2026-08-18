@@ -37,27 +37,7 @@
   </picture>
 </p>
 
----
----
 
-<h3 align="center">🐙 Pacman Contribution Graph</h3>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/kavaljeetsingh-dev/kavaljeetsingh-dev/output/pacman-contribution-graph-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/kavaljeetsingh-dev/kavaljeetsingh-dev/output/pacman-contribution-graph.svg"
-    >
-    <img
-      alt="Pacman Contribution Graph"
-      src="https://raw.githubusercontent.com/kavaljeetsingh-dev/kavaljeetsingh-dev/output/pacman-contribution-graph.svg"
-    >
-  </picture>
-</p>
 
 ---
 
